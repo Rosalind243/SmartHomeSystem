@@ -7,13 +7,12 @@ The buzzer will represent an alert system within the house, just to notify the u
 Using MQTT, we can also send periodical updates to the user about the temperature and humidity in the home. An alert can be sent to the user if they wish to be notified when the temperature and humidity exceed the threshold and both the fan and air-conditioning are turned on. A button function is also added through MQTT, allowing the user to manually turn on the air-conditioning to cool the house down before they return.  
 With the use of ThingBoard, the user will also be able to track the temperature and humidity in their home. Allowing for them to have a visual indicator of the temperature and humidity in their home.
 
-IoT System Architecture
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/398f23f2-4c08-408c-97b9-9739b68c1766" />
-MQTT App 
-<img width="714" height="418" alt="image" src="https://github.com/user-attachments/assets/23510408-c5ae-42a7-a3f5-28242f2857d7" />
+<img width="612" height="557" alt="image" src="https://github.com/user-attachments/assets/f6af77d5-956f-4831-8eaf-ebb0d1295d9d" />
+<img width="736" height="488" alt="image" src="https://github.com/user-attachments/assets/8acf76c9-4797-4e6a-a4f1-ac0a0320630c" />
 <img width="638" height="340" alt="image" src="https://github.com/user-attachments/assets/99d3dddf-3405-4219-aaf3-6ee6c108d5e0" />
 <img width="531" height="429" alt="image" src="https://github.com/user-attachments/assets/932b8074-1dc5-45ed-ae60-f73338b30367" />
-<img width="741" height="331" alt="image" src="https://github.com/user-attachments/assets/657526be-d9dc-4e43-ba99-58fcc05e1a05" />
+<img width="746" height="362" alt="image" src="https://github.com/user-attachments/assets/09028309-aedf-4d9c-888c-ebbe36ec9bb2" />
+
 
 
 

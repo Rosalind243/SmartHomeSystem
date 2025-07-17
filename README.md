@@ -9,7 +9,7 @@ With the use of ThingBoard, the user will also be able to track the temperature 
 
 <img width="612" height="557" alt="image" src="https://github.com/user-attachments/assets/f6af77d5-956f-4831-8eaf-ebb0d1295d9d" />
 <img width="736" height="488" alt="image" src="https://github.com/user-attachments/assets/8acf76c9-4797-4e6a-a4f1-ac0a0320630c" />
-<img width="638" height="340" alt="image" src="https://github.com/user-attachments/assets/99d3dddf-3405-4219-aaf3-6ee6c108d5e0" />
+<img width="690" height="365" alt="image" src="https://github.com/user-attachments/assets/cd0f1982-4ac4-43fc-9ed8-1af5ffec9364" />
 <img width="531" height="429" alt="image" src="https://github.com/user-attachments/assets/932b8074-1dc5-45ed-ae60-f73338b30367" />
 <img width="746" height="362" alt="image" src="https://github.com/user-attachments/assets/09028309-aedf-4d9c-888c-ebbe36ec9bb2" />
 

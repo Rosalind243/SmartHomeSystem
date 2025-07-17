@@ -1,1 +1,8 @@
-# SmartHomeSystem
+<img width="778" height="612" alt="image" src="https://github.com/user-attachments/assets/d5a2bc75-b3a1-430f-bf42-cf2ce37726f5" /># SmartHomeSystem
+
+For this project, we are developing a smart home system with the ability to automatically turn on and off the air-conditioner and fan with the help of IOTP devices. 
+Using the BME sensor, the system will be able to detect changes in temperature and humidity in the home. If the temperature and humidity exceed a certain threshold, it will be able to automatically turn on the air-conditioning and fan. 
+For our project, we have decided to simulate the air conditioning using the LED and the fan using the mini 5V fan. When temperatures exceed a threshold, it will turn on the mini fan (simulating the fan). If the humidity exceeds a threshold, it will turn on the LED (simulating the air-con). If the humidity exceeds a larger threshold, it will also turn on both the fan and air conditioning. 
+The buzzer will represent an alert system within the house, just to notify the user when all appliances are turned on. 
+Using MQTT, we can also send periodical updates to the user about the temperature and humidity in the home. An alert can be sent to the user if they wish to be notified when the temperature and humidity exceed the threshold and both the fan and air-conditioning are turned on. A button function is also added through MQTT, allowing the user to manually turn on the air-conditioning to cool the house down before they return.  
+With the use of ThingBoard, the user will also be able to track the temperature and humidity in their home. Allowing for them to have a visual indicator of the temperature and humidity in their home.
